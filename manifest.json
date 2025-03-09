@@ -1,0 +1,21 @@
+{
+    "name": "DWG Viewer",
+    "short_name": "DWGViewer",
+    "description": "A simple offline DWG viewer",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2563eb",
+    "icons": [
+        {
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABYUlEQVQ4jZWSPU",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAABYUlEQVQ4jZWSPU",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
